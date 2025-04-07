@@ -1,4 +1,4 @@
-<img src="error_meme.jpg" width="333px" />
+<img src="error_meme.png" width="666px" />
 
 <!--
 ## Hi there 👋
