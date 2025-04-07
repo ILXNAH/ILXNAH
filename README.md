@@ -1,9 +1,9 @@
 <img src="error_meme.png" width="666px" />
+
 [![Creds: @garabatokid](https://img.shields.io/badge/creds-%40garabatokid-666666?style=flat)](https://x.com/garabatokid)
 
 <!--
 <sub style="color:gray">Creds: <a href="https://x.com/garabatokid" target="_blank">@garabatokid</a></sub>
-
 
 ## Hi there 👋
 
