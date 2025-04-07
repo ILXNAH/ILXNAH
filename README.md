@@ -1,5 +1,5 @@
 <img src="error_meme.png" width="666px" />
-<sub><span style="color:gray">🎨 Creds: <a href="https://x.com/garabatokid" target="_blank">@garabatokid</a></span></sub>
+<sub><span style="color:gray">Creds: <a href="https://x.com/garabatokid" target="_blank" style="color:gray">@garabatokid</a></span></sub>
 
 <!--
 ## Hi there 👋
