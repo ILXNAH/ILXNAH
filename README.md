@@ -1,10 +1,10 @@
 <img src="error_meme.png" width="501px" />
 
-[![Creds: @garabatokid](https://img.shields.io/badge/creds-%40garabatokid-ffffff?style=flat&color=ff5f5f)](https://x.com/garabatokid) <!-- red background -->
+[![Creds: @garabatokid](https://img.shields.io/badge/creds-%40garabatokid-ffffff?style=flat&color=ff5f5f)](https://x.com/garabatokid)
 
-[![🎧 Focus Playlist](https://img.shields.io/badge/🎧%20Focus%20Playlist-ffffff?style=flat&color=5fd75f)](https://youtube.com/playlist?list=PLnhm-_a3haJYBaeCwKZevJNmA3uwKMFhp&si=nqgNeV_LVEUHi1jQ) <!-- green background -->
+[![🎧 Focus Playlist](https://img.shields.io/badge/🎧%20Focus%20Playlist-3a3b3f?style=flat&color=5fd75f)](https://youtube.com/playlist?list=PLnhm-_a3haJYBaeCwKZevJNmA3uwKMFhp&si=nqgNeV_LVEUHi1jQ)  
 
-[![🎭 Some Shakespeare Quote](https://img.shields.io/badge/🎭%20Some%20Shakespeare%20Quote-ffffff?style=flat&color=f5c242)](https://github.com/ILXNAH/ILXNAH/blob/main/preview(1).jpg) <!-- yellow/gold background -->
+[![🎭 Some Shakespeare Quote](https://img.shields.io/badge/🎭%20Some%20Shakespeare%20Quote-ffffff?style=flat&color=f5c242)](https://github.com/ILXNAH/ILXNAH/blob/main/preview(1).jpg)
 
 <!--
 
