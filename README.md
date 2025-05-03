@@ -4,7 +4,7 @@
 
 [![🎧 Focus Playlist](https://img.shields.io/badge/🎧%20Focus%20Playlist-3a3b3f?style=flat&color=2e8540)](https://youtube.com/playlist?list=PLnhm-_a3haJYBaeCwKZevJNmA3uwKMFhp&si=nqgNeV_LVEUHi1jQ)  
 
-[![🎪 Some Shakespeare Quote](https://img.shields.io/badge/🎭%20Some%20Shakespeare%20Quote-ffffff?style=flat&color=c3d64f)](https://github.com/ILXNAH/ILXNAH/blob/main/quote.jpg)
+[![🎪 Some Shakespeare Quote](https://img.shields.io/badge/🎪%20Some%20Shakespeare%20Quote-ffffff?style=flat&color=c3d64f)](https://github.com/ILXNAH/ILXNAH/blob/main/quote.jpg)
 
 <!--
 
