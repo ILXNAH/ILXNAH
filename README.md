@@ -1,10 +1,10 @@
 <img src="error_meme.png" width="501px" />
 
-[![Creds: @garabatokid](https://img.shields.io/badge/creds-%40garabatokid-b7bdf8?style=flat&color=494d64)](https://x.com/garabatokid)
+[![Creds: @garabatokid](https://img.shields.io/badge/creds-%40garabatokid-cad3f5?style=flat&color=f5a97f)](https://x.com/garabatokid)
 
-[![🎧 Focus Playlist](https://img.shields.io/badge/🎧%20Focus%20Playlist-8aadf4?style=flat&color=494d64)](https://youtube.com/playlist?list=PLnhm-_a3haJYBaeCwKZevJNmA3uwKMFhp&si=nqgNeV_LVEUHi1jQ)
+[![🎧 Focus Playlist](https://img.shields.io/badge/🎧%20Focus%20Playlist-cad3f5?style=flat&color=8aadf4)](https://youtube.com/playlist?list=PLnhm-_a3haJYBaeCwKZevJNmA3uwKMFhp&si=nqgNeV_LVEUHi1jQ)
 
-[![🎭 Some Shakespeare Quote](https://img.shields.io/badge/🎭%20Some%20Shakespeare%20Quote-c6a0f6?style=flat&color=494d64)](https://github.com/ILXNAH/ILXNAH/blob/main/preview(1).jpg)
+[![🎭 Some Shakespeare Quote](https://img.shields.io/badge/🎭%20Some%20Shakespeare%20Quote-cad3f5?style=flat&color=ee99a0)](https://github.com/ILXNAH/ILXNAH/blob/main/preview(1).jpg) 
 
 <!--
 
