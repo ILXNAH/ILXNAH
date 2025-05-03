@@ -4,6 +4,10 @@
 
 [![🎧 Focus Playlist](https://img.shields.io/badge/🎧%20Focus%20Playlist-Youtube-red?style=flat)](https://youtube.com/playlist?list=PLnhm-_a3haJYBaeCwKZevJNmA3uwKMFhp&si=nqgNeV_LVEUHi1jQ)
 
+<img src="preview(1).jpg" width="666px" />
+
+<!--
+
 > 🎭 "All the world’s a stage,  
 > And all the men and women merely players;  
 > They have their exits and their entrances,  
@@ -34,7 +38,6 @@
 > Sans teeth, sans eyes, sans taste, sans everything."  
 > — *William Shakespeare, As You Like It*
 
-<!--
 <sub style="color:gray">Creds: <a href="https://x.com/garabatokid" target="_blank">@garabatokid</a></sub>
 
 ## Hi there 👋
