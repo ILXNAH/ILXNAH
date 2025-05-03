@@ -1,4 +1,4 @@
-<img src="error_meme.png" width="444px" />
+<img src="error_meme.png" width="501px" />
 
 [![Creds: @garabatokid](https://img.shields.io/badge/creds-%40garabatokid-666666?style=flat)](https://x.com/garabatokid)
 
