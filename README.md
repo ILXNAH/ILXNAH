@@ -2,7 +2,7 @@
 
 > ⚡ _"I never finish anyth-"_
 
-[![Creds: @garabatokid](https://img.shields.io/badge/creds%3A%20%40garabatokid-b92035?style=flat&color=b92035)](https://x.com/garabatokid)
+[![Meme credit: @garabatokid](https://img.shields.io/badge/meme%20credit%3A%20%40garabatokid-b92035?style=flat&color=b92035)](https://x.com/garabatokid)
 
 [![🎧 Focus Playlist](https://img.shields.io/badge/🎧%20Focus%20Playlist-3a3b3f?style=flat&color=2e8540)](https://youtube.com/playlist?list=PLnhm-_a3haJYBaeCwKZevJNmA3uwKMFhp&si=nqgNeV_LVEUHi1jQ)  
 
