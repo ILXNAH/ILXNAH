@@ -10,7 +10,7 @@ Welcome to my GitHub — I’m ILXNAH.
 
 I’m an aspiring DevOps engineer and occasional meme enthusiast (you guessed it).  
 My passion lies in automation, infrastructure, and building better solutions.  
-I navigate complex challenges with persistence and an open mind, always embracing a learner’s mindset.  
+I navigate complex challenges with persistence and an open mind, consistently embracing a learner’s mindset.  
 Here’s what’s keeping me curious these days 👇
 
 ## 🛠 Currently working on
