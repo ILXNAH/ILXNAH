@@ -3,7 +3,7 @@
 > ⚡ _"I never finish anyth-"_
 
 
-👋 Oh, hello there, curious thinker 🌱
+👋 Oh, hello there, wandering mind 🌱
 
 Welcome to my GitHub — I’m ILXNAH.
 
