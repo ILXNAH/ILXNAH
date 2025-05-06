@@ -9,10 +9,14 @@
 [![🎭 Some Shakespeare Quote](https://img.shields.io/badge/🎭%20Some%20Shakespeare%20Quote-ffffff?style=flat&color=883a50)](https://github.com/ILXNAH/ILXNAH/blob/main/quote.jpg)
 
 👋 Oh, hello there, curious thinker 🌱
+
 Welcome to my GitHub — I’m ILXNAH.
 
+
 I’m an aspiring DevOps engineer, resilient learner, and occasional meme enthusiast (you guessed it). 
+
 I’m passionate about automation, infrastructure, and building better solutions. Always up for solving tough problems.
+
 Here’s what’s keeping me curious these days 👇
 
 ## 🛠 Currently working on
