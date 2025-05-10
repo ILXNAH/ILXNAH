@@ -1,6 +1,6 @@
 <img src="error_meme.png" width="501px" />
 
-> ⚡ _"I never finish anyth-"_
+> _"And in case I don't see ya, Good afternoon, Good evening, and Good night!"_ 🎬🌙
 
 
 👋 Oh, hello there, wandering mind 🌱
