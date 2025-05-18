@@ -16,7 +16,7 @@ Here’s what’s keeping me curious these days 👇
 - Advancing hands-on experience with Docker and Kubernetes — [see my repo](https://github.com/ILXNAH/docker-and-k8s)
 - Improving coding skills and deepening understanding of runtime environments, observability, error handling, and code efficiency
 - Refining workflows for infrastructure deployments and container orchestration
-- Growing expertise in cybersecurity (NIS2) and modern process management (ITIL Practitioner, PRINCE2 Agile)
+- Growing expertise in cybersecurity (NIS2) and modern process management (ITIL® 4 Practitioner, PRINCE2® Agile Practitioner)
 
 📄 [View my CV](https://ilxnah.github.io/cv/ilona-louckova.pdf)
 
