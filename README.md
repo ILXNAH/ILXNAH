@@ -1,4 +1,4 @@
-<img src="error_meme.png" width="501px" />
+<img src="error_meme-grayscaled.png" width="501px" />
 
 
 
