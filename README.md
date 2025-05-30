@@ -23,14 +23,14 @@ Here’s what’s keeping me curious these days 👇
 ## 📜 PeopleCert Credentials
 
 <div align="left">
-  <img src="peoplecert-badges/prince2-agile-foundation.png" width="90px" alt="PRINCE2 Agile Foundation" title="PRINCE2 Agile Foundation" />
-  <img src="peoplecert-badges/prince2-agile-practitioner.png" width="90px" alt="PRINCE2 Agile Practitioner" title="PRINCE2 Agile Practitioner" />
-  <img src="peoplecert-badges/prince2-project-priorities.png" width="90px" alt="PRINCE2 Project Priorities" title="PRINCE2 Project Priorities" />
-  <img src="peoplecert-badges/prince2-project-delivery.png" width="90px" alt="PRINCE2 Project Delivery" title="PRINCE2 Project Delivery" />
-  <img src="peoplecert-badges/itil4-foundation.png" width="90px" alt="ITIL 4 Foundation" title="ITIL 4 Foundation" />
-  <img src="peoplecert-badges/itil4-practitioner-mem.png" width="90px" alt="ITIL 4 Practitioner – Monitor, Evaluate and Measure" title="ITIL 4 Practitioner – Monitor, Evaluate and Measure" />
-  <img src="peoplecert-badges/itil4-practice-guides.png" width="90px" alt="ITIL 4 Practice Guides" title="ITIL 4 Practice Guides" />
-  <img src="peoplecert-badges/itil-ai-in-itsm.png" width="90px" alt="ITIL AI in ITSM" title="ITIL AI in ITSM" />
+  <img src="peoplecert-badges/prince2-agile-foundation.png" width="60px" alt="PRINCE2 Agile Foundation" title="PRINCE2 Agile Foundation" />
+  <img src="peoplecert-badges/prince2-agile-practitioner.png" width="60px" alt="PRINCE2 Agile Practitioner" title="PRINCE2 Agile Practitioner" />
+  <img src="peoplecert-badges/prince2-project-priorities.png" width="60px" alt="PRINCE2 Project Priorities" title="PRINCE2 Project Priorities" />
+  <img src="peoplecert-badges/prince2-project-delivery.png" width="60px" alt="PRINCE2 Project Delivery" title="PRINCE2 Project Delivery" />
+  <img src="peoplecert-badges/itil4-foundation.png" width="60px" alt="ITIL 4 Foundation" title="ITIL 4 Foundation" />
+  <img src="peoplecert-badges/itil4-practitioner-mem.png" width="60px" alt="ITIL 4 Practitioner – Monitor, Evaluate and Measure" title="ITIL 4 Practitioner – Monitor, Evaluate and Measure" />
+  <img src="peoplecert-badges/itil4-practice-guides.png" width="60px" alt="ITIL 4 Practice Guides" title="ITIL 4 Practice Guides" />
+  <img src="peoplecert-badges/itil-ai-in-itsm.png" width="60px" alt="ITIL AI in ITSM" title="ITIL AI in ITSM" />
 </div>
 
 ## 🎨 Hobbies & Sporadic Interests
