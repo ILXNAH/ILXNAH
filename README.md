@@ -42,4 +42,4 @@ Here’s what’s keeping me curious these days 👇
 ---
 #on-the-path #looking-for-allies
 
-> _"And in case I don't see ya, Good afternoon, Good evening, and Good night!"_ 🎬🌙
+> _"May the wind under your wings bear you where the sun sails and the moon walks."_ ☀️🌙🦅
