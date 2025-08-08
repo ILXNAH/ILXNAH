@@ -1,8 +1,5 @@
-<img src="error_meme.png" width="501px" />
-
-
-
-👋 Oh, hello there, wandering mind 🌱
+<!-- <img src="error_meme.png" width="501px" /> -->
+Oh, hello there,
 
 Welcome to my GitHub — I’m ILXNAH (she/her).
 
@@ -44,4 +41,4 @@ Here’s what’s keeping me curious these days 👇
 ---
 #on-the-path #looking-for-allies
 
-> _"May the wind under your wings bear you where the sun sails and the moon walks."_ ☀️🌙🦅
+<!-- > _"May the wind under your wings bear you where the sun sails and the moon walks."_ ☀️🌙🦅 -->
