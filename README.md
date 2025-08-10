@@ -1,7 +1,7 @@
 <!-- <img src="error_meme.png" width="501px" /> -->
 Hello there,
 
-welcome to my GitHub — I’m ILXNAH.
+welcome to my GitHub ~~~ I’m ILXNAH.
 
 I’m an early-career DevOps engineer and occasional meme enthusiast (you guessed it).  
 My passion lies in automation, infrastructure, and building better solutions.  
