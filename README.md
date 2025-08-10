@@ -1,11 +1,9 @@
 <!-- <img src="error_meme.png" width="501px" /> -->
 Hello there,
+welcome to my GitHub ~~~ I’m ILXNAH, an early-career DevOps gal. 
 
-welcome to my GitHub ~~~ I’m ILXNAH.
+My goal is to absorb diverse streams of technical and non-technical knowledge, decode systems through investigation and analysis, and engineer solutions that rewrite the rules. I take on challenges with persistence and an open mind; pushing fate, my limits, and a little rogue code along the way.
 
-I’m an early-career DevOps engineer and occasional meme enthusiast (you guessed it).  
-My passion lies in automation, infrastructure, and building better solutions.  
-I navigate complex challenges with persistence and an open mind, consistently embracing a learner’s mindset.  
 Here’s what’s keeping me curious these days 👇
 
 ## Currently working on
