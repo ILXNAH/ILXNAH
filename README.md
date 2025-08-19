@@ -12,7 +12,7 @@ Here’s what’s keeping me curious these days 👇
 - Refining workflows for infrastructure deployments and container orchestration
 - Growing expertise in cybersec (NIS2) & modern process management (ITIL® 4 Practitioner, PRINCE2® Agile Expert)
 
-📄 [View my CV](ilxnah.github.io/resume/)
+📄 [View my CV](https://ilxnah.github.io/resume/)  
 
 ## Hobbies & Sporadic Interests
 🎨 ~ Oil painting and pastel pencil drawing  
