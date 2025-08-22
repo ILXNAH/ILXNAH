@@ -6,11 +6,11 @@ I take on challenges with persistence and an open mind; pushing fate, my limits,
 
 💓 **Pulse Check →** Building my online résumé right now.
 
-📄 **View the site here:** https://ilxnah.github.io/resume/
+📄 **View the site here:** [ilxnah.github.io/resume](https://ilxnah.github.io/resume/)
 
-🎧 **Focus Playlist →** https://youtube.com/playlist?list=PLnhm-_a3haJYBaeCwKZevJNmA3uwKMFhp
+🎧 **Focus Playlist →** [Ctrl+Focus 🔎](https://youtube.com/playlist?list=PLnhm-_a3haJYBaeCwKZevJNmA3uwKMFhp)
 
-🪄 **Hobbies & vibe →** https://gravatar.com/ilxnah
+🪄 **Hobbies & vibe →** [gravatar.com/ilxnah](https://gravatar.com/ilxnah)
 
 <!-- [![Meme Credit: @garabatokid](https://img.shields.io/badge/Meme%20Credit%3A%20%40garabatokid-b92035?style=flat&color=f5384f)](https://x.com/garabatokid) -->
 <!-- [![🎭 Some Shakespearean Quote](https://img.shields.io/badge/🎭%20Some%20Shakespearean%20Quote-ffffff?style=flat&color=9960b4)](https://github.com/ILXNAH/ILXNAH/blob/main/quote.jpg) -->
