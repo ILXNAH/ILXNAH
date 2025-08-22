@@ -4,8 +4,11 @@ Hello and welcome!
 <!-- My goal is to absorb diverse streams of technical and non-technical knowledge, decode systems through investigation and analysis, and engineer solutions that rewrite the rules.  
 I take on challenges with persistence and an open mind; pushing fate, my limits, and a little rogue code along the way.  -->
 
-💓 **Pulse Check →** Building my online résumé right now. [View the site here](https://ilxnah.github.io/resume/) 
-[![🎧 Focus Playlist](https://img.shields.io/badge/🎧%20Focus%20Playlist-3a3b3f?style=flat&color=3aa3a5)](https://youtube.com/playlist?list=PLnhm-_a3haJYBaeCwKZevJNmA3uwKMFhp&si=nqgNeV_LVEUHi1jQ) 
+💓 **Pulse Check →** Building my online résumé right now.
+
+📄 **View the site here:** https://ilxnah.github.io/resume/
+
+[![🎧 Focus Playlist](https://img.shields.io/badge/🎧%20Focus%20Playlist-3a3b3f?style=flat&color=3aa3a5)](https://youtube.com/playlist?list=PLnhm-_a3haJYBaeCwKZevJNmA3uwKMFhp&si=nqgNeV_LVEUHi1jQ)
 
 🪄 **Hobbies & vibe →** https://gravatar.com/ilxnah
 
