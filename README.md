@@ -8,7 +8,7 @@ I take on challenges with persistence and an open mind; pushing fate, my limits,
 
 📄 **View the site here:** https://ilxnah.github.io/resume/
 
-🎧 **Focus Playlist →** https://youtube.com/playlist?list=PLnhm-_a3haJYBaeCwKZevJNmA3uwKMFhp&si=nqgNeV_LVEUHi1jQ
+🎧 **Focus Playlist →** https://youtube.com/playlist?list=PLnhm-_a3haJYBaeCwKZevJNmA3uwKMFhp
 
 🪄 **Hobbies & vibe →** https://gravatar.com/ilxnah
 
