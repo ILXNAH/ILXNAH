@@ -10,7 +10,7 @@ I take on challenges with persistence and an open mind; pushing fate, my limits,
 
 🎧 **Focus Playlist →** [Ctrl+Focus 🔎](https://youtube.com/playlist?list=PLnhm-_a3haJYBaeCwKZevJNmA3uwKMFhp)
 
-🪄  **Hobbies & vibe →** [gravatar.com/ilxnah](https://gravatar.com/ilxnah)
+🪄 &nbsp;**Hobbies & vibe →** [gravatar.com/ilxnah](https://gravatar.com/ilxnah)
 
 <!-- [![Meme Credit: @garabatokid](https://img.shields.io/badge/Meme%20Credit%3A%20%40garabatokid-b92035?style=flat&color=f5384f)](https://x.com/garabatokid) -->
 <!-- [![🎭 Some Shakespearean Quote](https://img.shields.io/badge/🎭%20Some%20Shakespearean%20Quote-ffffff?style=flat&color=9960b4)](https://github.com/ILXNAH/ILXNAH/blob/main/quote.jpg) -->
