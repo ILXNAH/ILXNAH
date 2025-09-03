@@ -1,6 +1,5 @@
 <!-- <img src="error_meme.png" width="501px" /> -->
-# ILXNAH
-Hello and welcome!
+Hello and welcome!  
 <!-- My goal is to absorb diverse streams of technical and non-technical knowledge, decode systems through investigation and analysis, and engineer solutions that rewrite the rules.  
 I take on challenges with persistence and an open mind; pushing fate, my limits, and a little rogue code along the way.  -->
 
