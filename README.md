@@ -3,7 +3,7 @@ Hello and welcome!
 <!-- My goal is to absorb diverse streams of technical and non-technical knowledge, decode systems through investigation and analysis, and engineer solutions that rewrite the rules.  
 I take on challenges with persistence and an open mind; pushing fate, my limits, and a little rogue code along the way.  -->
 
-💓 **Pulse Check →** Building my online résumé right now.
+💓 **Pulse Check →** Building my résumé right now.
 
 📄 **View the site here:** [ilxnah.github.io/resume](https://ilxnah.github.io/resume/)
 
