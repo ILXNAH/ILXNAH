@@ -6,4 +6,4 @@ Greetings, human.
 
 🎧 **Focus Playlist →** [Ctrl+Focus 🔎](https://youtube.com/playlist?list=PLnhm-_a3haJYBaeCwKZevJNmA3uwKMFhp)
 
-🪄 &nbsp;**Hobbies & Vibe →** [gravatar.com/ilxnah](https://gravatar.com/ilxnah)
+🪄 &nbsp;**Hobbies & Vibe →** [ilonaixchel.link](ilonaixchel.link)
