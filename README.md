@@ -1,19 +1,9 @@
-<!-- <img src="error_meme.png" width="501px" /> -->
-Hello and welcome!  
-<!-- My goal is to absorb diverse streams of technical and non-technical knowledge, decode systems through investigation and analysis, and engineer solutions that rewrite the rules.  
-I take on challenges with persistence and an open mind; pushing fate, my limits, and a little rogue code along the way.  -->
+Greetings, human. 
 
-💓 **Pulse Check →** Building my résumé right now.
+💓 **Pulse Check →** signal detected
 
-📄 **View the site here:** [ilxnah.github.io/resume](https://ilxnah.github.io/resume/)
+📄 **Résumé Site →** [ilxnah.github.io/resume](https://ilxnah.github.io/resume/)
 
 🎧 **Focus Playlist →** [Ctrl+Focus 🔎](https://youtube.com/playlist?list=PLnhm-_a3haJYBaeCwKZevJNmA3uwKMFhp)
 
-🪄 &nbsp;**Hobbies & vibe →** [gravatar.com/ilxnah](https://gravatar.com/ilxnah)
-
-<!-- [![Meme Credit: @garabatokid](https://img.shields.io/badge/Meme%20Credit%3A%20%40garabatokid-b92035?style=flat&color=f5384f)](https://x.com/garabatokid) -->
-<!-- [![🎭 Some Shakespearean Quote](https://img.shields.io/badge/🎭%20Some%20Shakespearean%20Quote-ffffff?style=flat&color=9960b4)](https://github.com/ILXNAH/ILXNAH/blob/main/quote.jpg) -->
----
-\#untethered \#lfg
-
-<!-- > _"May the wind under your wings bear you where the sun sails and the moon walks."_ ☀️🌙🦅 -->
+🪄 &nbsp;**Hobbies & Vibe →** [gravatar.com/ilxnah](https://gravatar.com/ilxnah)
